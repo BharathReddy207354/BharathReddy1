@@ -1,0 +1,2 @@
+This command is used to show the difference between the fetch and pull request 
+if you commit fetch then only the commit is seen if you push the code then that changes is applicable to all
